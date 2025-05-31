@@ -1,10 +1,6 @@
 # PageRank-Algorithm
 Algoritimo de pagerank calculado a partir de um grafo dirigido usando power interation
 
-- Isaac Ferreira Marcolino
-- Ramon Barreiro Figueira
-- Matheus Escaleira Mazzutti
-
 # PAGERANK ALGORITHM
 
 Date: May 27, 2025

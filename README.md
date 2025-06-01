@@ -5,7 +5,7 @@ Algoritimo de pagerank calculado a partir de um grafo dirigido usando power inte
 
 Date: May 27, 2025
 
-## PageRank Algorithm using Power Interation
+## PageRank Algorithm using Power Iteration
 
 PageRank é uma métrica de **centralidade de autovetor** criada por Larry Page e Sergey Brin em 1997 para medir a relevância de páginas na Web. A intuição é simples: uma página é “importante” se recebe muitos links — e, sobretudo, se esses links vêm de outras páginas importantes. O algoritmo traduz essa ideia em uma cadeia de Markov: um “surfista aleatório” navega pelos links com probabilidade d (tipicamente 0,85) e, com probabilidade 1 - d “teleporta-se” para qualquer página. A distribuição estacionária dessa navegação é o vetor de PageRank.
 
